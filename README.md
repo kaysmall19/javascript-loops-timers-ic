@@ -16,5 +16,5 @@ Use a for loop to print from 0 to 50. Once it gets to 10, print "TEN!!!" instead
 ### Exercise 5: Loop
 Prompt the user to enter a number. Prompt the user to enter another number. Create a for loop that counts from the first number to the second number.
 
-### Exercise 6: repeating timer
+### Exercise 6: Repeating timer
 Create a button with the text `Start Countdown!`. When the User clicks the button, display a countdown sequence in the browser as an `<h2>` from 10 to `LIFTOFF!!`. Display each number during the countdown each second (1000 ms), leading up to the word `LIFTOFF!!!`. Be sure to stop the timer once liftoff achieved.
