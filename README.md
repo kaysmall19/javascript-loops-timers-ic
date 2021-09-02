@@ -1,4 +1,4 @@
-# JavaScript Loops and timer events ic
+# JavaScript Loops and Timer Events - ic
 
 
 ### Exercise 1: Loop
